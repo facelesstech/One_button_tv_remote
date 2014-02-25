@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2012-apr-16-27)-stable date = Sat 08 Feb 2014 18:42:02 GMT
+
+BeginCmp
+TimeStamp = /52F2AF5F;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = Battery_OBR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E97AF6;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM_OBR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E834F0;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM_OBR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E82EAD;
+Reference = IC1;
+ValeurCmp = ATTINY85-P;
+IdModule  = DIP-8__300_OBR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E83468;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E834C7;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E83490;
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /52E83438;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = SW_PUSH_SMALL_OBR;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAC833;
+Reference = SW2;
+ValeurCmp = SWITCH_INV;
+IdModule  = MICROSWITCH_SPST;
+EndCmp
+
+EndListe
